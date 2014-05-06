@@ -1,6 +1,6 @@
 #define C4 60
 
-#define DEFAULT_ARPEGGIO_CAPACITY 4
+#define DEFAULT_ARPEGGIO_CAPACITY 8
 
 /* an Arpeggio is a series of notes played in a rhythm specified by one or more ArpeggioElements.
  * an ArpeggioElement specifies a note's start relative to the beginning of a Sequence and duration in beats.
